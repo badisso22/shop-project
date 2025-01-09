@@ -1,5 +1,12 @@
 # Mini Project - Sales and Inventory Management System
 
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![C++](https://img.shields.io/badge/language-C%2B%2B-blue)
+![Windows Forms](https://img.shields.io/badge/platform-Windows%20Forms-green)
+
+
 Welcome to the **Sales and Inventory Management System**! This project provides a user-friendly interface for managing product sales using a temporary data base(dataset), tracking inventory, and calculating VAT and discounts in real-time. With this system, users can easily update products, process sales, and keep track of inventory changes. This project was done by using 'visual studio ultimate 2012' C++ , with that being said let’s dive into how everything works!
 
 ## Features
