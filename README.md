@@ -1,11 +1,11 @@
 # Mini Project - Sales and Inventory Management System
 
-Welcome to the **Sales and Inventory Management System**! This project provides a user-friendly interface for managing product sales, tracking inventory, and calculating VAT and discounts in real-time. With this system, users can easily update products, process sales, and keep track of inventory changes. Let’s dive into how everything works!
+Welcome to the **Sales and Inventory Management System**! This project provides a user-friendly interface for managing product sales using a temporary data base(dataset), tracking inventory, and calculating VAT and discounts in real-time. With this system, users can easily update products, process sales, and keep track of inventory changes. This project was done by using 'visual studio ultimate 2012' C++ , with that being said let’s dive into how everything works!
 
 ## Features
 
 ### 1. **User Login**
-   - Secure login interface to ensure only authorized users can access the system.
+   - Secure login interface to ensure only authorized users can access the syste (currently there arre only "admin" and "staff" account).
    - Ability to log out and log back in seamlessly.
 
 ### 2. **Product Inventory Management**
@@ -60,17 +60,18 @@ Welcome to the **Sales and Inventory Management System**! This project provides 
 ---
 
 ## To Run the Project
-1. Clone or download the project files.
-2. Open the project in Visual Studio.
-3. Build and run the application.
-4. Log in with your credentials and begin managing sales and inventory!
+1. Okay so first of all hopefully u can check it because i couldn't upload the whole file since it's too big.
+2. Clone or download the project files.
+3. Open the project in Visual Studio(i used visual studio ultimate 2012).
+4. Build and run the application.
+5. Log in with your credentials and begin managing sales and inventory!
 
 ---
 
 ## Contributions
-Feel free to suggest new features or improvements! Pull requests are always welcome. Whether it’s a bug fix or a new feature, any contribution is appreciated!
+Feel free to suggest new features or improvements! Pull requests are always welcome. Whether it’s a bug fix or a new feature, this was a college project hopefully it fits the professor standards , any contribution is appreciated!
 
 ---
 
 ## Conclusion
-Thank you for using the **Sales and Inventory Management System**! We hope this tool helps streamline your inventory and sales management. Should you encounter any issues or have any suggestions, don’t hesitate to reach out. Happy managing!
+Thank you for reading and checking this , it's a new thing to me after all using C++ (it's hell), i wish if we studied this module i C# .
