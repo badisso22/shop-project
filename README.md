@@ -2,7 +2,6 @@
 
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![C++](https://img.shields.io/badge/language-C%2B%2B-blue)
 ![Windows Forms](https://img.shields.io/badge/platform-Windows%20Forms-green)
 
