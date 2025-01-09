@@ -8,7 +8,22 @@
 
 Welcome to the **Sales and Inventory Management System**! This project provides a user-friendly interface for managing product sales using a temporary data base(dataset), tracking inventory, and calculating VAT and discounts in real-time. With this system, users can easily update products, process sales, and keep track of inventory changes. This project was done by using 'visual studio ultimate 2012' C++ , with that being said let’s dive into how everything works!
 
-## Features
+---
+
+## Table of Contents 📑
+
+1. [User Login](#user-login)
+2. [Product Inventory Management](#product-inventory-management)
+3. [Sales Processing](#sales-processing)
+4. [Price Calculation](#price-calculation)
+5. [How It Works](#how-it-works)
+6. [Validation and Error Handling](#validation-and-error-handling)
+7. [Technologies Used](#technologies-used)
+8. [To Run the Project](#to-run-the-project)
+9. [Contributions](#contributions)
+10. [Conclusion](#conclusion)
+
+---
 
 ### 1. **User Login**
    - Secure login interface to ensure only authorized users can access the syste (currently there arre only "admin" and "staff" account).
@@ -80,4 +95,4 @@ Feel free to suggest new features or improvements! Pull requests are always welc
 ---
 
 ## Conclusion
-Thank you for reading and checking this , it's a new thing to me after all using C++ (it's hell), i wish if we studied this module i C# .
+Thank you for reading and checking this , it's a new thing to me after all using C++ (it's hell), i wish if we studied this module in C# .
